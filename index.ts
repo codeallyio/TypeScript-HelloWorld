@@ -1,3 +1,3 @@
-var hello: string = "Hello";
-var world: string = "World";
+const hello: string = "Hello";
+const world: string = "World";
 console.log(hello + world);
